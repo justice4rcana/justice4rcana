@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 
 <!--
 **justice4rcana/justice4rcana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
